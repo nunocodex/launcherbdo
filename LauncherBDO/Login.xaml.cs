@@ -42,7 +42,7 @@ namespace LauncherBDO
             MainWindow taskWindow = new MainWindow();
             if (UsernameText.Text != "")
             {
-                string url = $"http://sitename/api/login.php?key={key}&username={UsernameText.Text}&password={FloatingPasswordBox.Password}"; //api requery 
+                string url = $"http://desertcore.test/api/login.php?key={key}&username={UsernameText.Text}&password={FloatingPasswordBox.Password}"; //api requery 
                 try
                 {
                     using (var webClient = new WebClient())

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irbos\\source\\repos\\LauncherBDO\\LauncherBDO\\LauncherBDO.csproj": {}
+    "C:\\Users\\NunoCodex\\Documents\\GitHub\\launcherbdo\\LauncherBDO\\LauncherBDO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irbos\\source\\repos\\LauncherBDO\\LauncherBDO\\LauncherBDO.csproj": {
+    "C:\\Users\\NunoCodex\\Documents\\GitHub\\launcherbdo\\LauncherBDO\\LauncherBDO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irbos\\source\\repos\\LauncherBDO\\LauncherBDO\\LauncherBDO.csproj",
+        "projectUniqueName": "C:\\Users\\NunoCodex\\Documents\\GitHub\\launcherbdo\\LauncherBDO\\LauncherBDO.csproj",
         "projectName": "LauncherBDO",
-        "projectPath": "C:\\Users\\Irbos\\source\\repos\\LauncherBDO\\LauncherBDO\\LauncherBDO.csproj",
-        "packagesPath": "C:\\Users\\Irbos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irbos\\source\\repos\\LauncherBDO\\LauncherBDO\\obj\\",
+        "projectPath": "C:\\Users\\NunoCodex\\Documents\\GitHub\\launcherbdo\\LauncherBDO\\LauncherBDO.csproj",
+        "packagesPath": "C:\\Users\\NunoCodex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NunoCodex\\Documents\\GitHub\\launcherbdo\\LauncherBDO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Irbos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NunoCodex\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -78,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
